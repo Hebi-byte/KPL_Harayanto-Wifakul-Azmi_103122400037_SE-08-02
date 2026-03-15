@@ -1,0 +1,48 @@
+body {
+    margin: 20px;
+    font-family: 'Inconsolata', monoospace;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #ccc;
+}
+.kotak-input {
+    display: block;
+    resize: none;
+    background-color: #f0f0f0;
+}
+p > span {
+    color: coral; /* atau juga bisa pakai kode hex-nya, #FF7F50 */
+    font-weight: bold;a
+}
+.dark-mode {
+    background-color: #171b25;
+    color: #ebecf7;
+}
+.light-mode {
+    background-color: #fff;
+    color: #000;
+}
+
+.grup-tg {
+    margin-top: 10px;
+}
+
+.dark-mode button {
+    background-color: #29ddcc;
+    color: #2e3443;
+    border: 1px solid #555;
+}
+
+.dark-mode .kotak-input {
+    display: block;
+    resize: none;
+    background-color: #383838;
+    color: #ebecf7;
+}
+
+
