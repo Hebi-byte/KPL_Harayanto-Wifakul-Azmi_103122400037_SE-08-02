@@ -1,0 +1,12 @@
+{
+  "name": "text-utils",
+  "version": "1.0.0",
+  "description": "Library untuk menghitung jumlah huruf dan kata dalam sebuah string",
+  "license": "ISC",
+  "author": "Harayanto Wifakul Azmi",
+  "type": "module",
+  "main": "text-utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
